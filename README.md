@@ -103,6 +103,7 @@ All queries and analysis are performed in [notebook.ipynb](notebooks/notebook.ip
   - long_duration_shared_users.sql
   - most_popular_shared_start_times.sql
   - unique_users_per_garage.sql
+- README.md
 
 ---
 
